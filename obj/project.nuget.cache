@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aMcZ1LjSVJNA75GlEOHzU9s41X63aKkL2rpjxyiRKLMcOxOwCRlM207M2f+enohyJu9t9trke1QvooXaZojW5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\OneDrive\\Masaüstü\\C#SampleQuestion\\SampleQuestion\\example8\\example8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
